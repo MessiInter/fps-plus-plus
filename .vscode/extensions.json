@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "zhuangtongfa.material-theme",
+    "redhat.java",
+    "github.vscode-pull-request-github",
+    "golang.go",
+    "oderwat.indent-rainbow",
+    "bungcip.better-toml",
+    "kokakiwi.vscode-just",
+    "ms-vscode.makefile-tools",
+    "editorconfig.editorconfig"
+  ]
+}

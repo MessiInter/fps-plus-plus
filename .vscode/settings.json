@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Fira Code",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontLigatures": true,
+  "files.associations": {
+    "*.sh": "shellscript"
+  },
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
