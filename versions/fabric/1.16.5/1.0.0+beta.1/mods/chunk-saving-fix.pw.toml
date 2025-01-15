@@ -3,8 +3,8 @@ filename = "chunksavingfix-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "84330090c6fed3b84ce4386a52e3e92ae9af8b30"
+hash-format = "sha512"
+hash = "36dd71d31ad274d1dc089107302d0bf1a79beb4798516ca549522d9c118379614182146d44908c98f9a1cfa733419be53dc5ff722fd90d9608607215bcf73d6b"
 mode = "metadata:curseforge"
 
 [update]

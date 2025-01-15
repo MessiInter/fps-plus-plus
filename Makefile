@@ -6,7 +6,7 @@ update-packwiz:
 export-fabric:
 	-mkdir -p .build/fabric/
 	cd versions/fabric/1.16.5 && pw batch mr export
-	-mv versions/fabric/*/*.mrpack .build/fabric
+	-mv versions/fabric/**/**/*.mrpack .build/fabric
 export-quilt:
 	-mkdir -p .build/quilt/
 	cd versions/quilt && pw batch mr export

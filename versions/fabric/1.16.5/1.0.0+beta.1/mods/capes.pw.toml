@@ -3,8 +3,8 @@ filename = "capes-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "414c76405104d97c5536abcda0aab966dbc151fb"
+hash-format = "sha512"
+hash = "16d1ff2c00d0fa22b70cc702459b1f8eac48d39fcd6a01f92b71bb1b4e0a1930a29f981f503fd69e45a66b61316e648f648dacdd8b6d38f51b88dbfa4f2ff872"
 mode = "metadata:curseforge"
 
 [update]

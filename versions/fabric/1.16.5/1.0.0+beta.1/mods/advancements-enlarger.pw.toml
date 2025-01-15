@@ -3,8 +3,8 @@ filename = "advancements-enlarger-0.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b96652fa5018dcfa55f47503c1cf25c539a3d2e1"
+hash-format = "sha512"
+hash = "95748cda0a96250728b77efc4a03cf259553dd770ac63b13399dc69545ec7b8950078d9e04481621e103532a735749c0d20baea8a9f4bb2d6771a602133b2c95"
 mode = "metadata:curseforge"
 
 [update]

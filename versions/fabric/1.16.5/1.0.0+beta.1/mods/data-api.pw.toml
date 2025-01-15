@@ -1,0 +1,13 @@
+name = "Data API"
+filename = "developer-resources-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "48773491ba5e34dee18b5369573c7d67ae2b43f535469e490e942f4826d51556f09bbd07718d7bc82cb77f36886eae59efa206a662fdd542b31c5ebd9a87f8f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5264138
+project-id = 1003675

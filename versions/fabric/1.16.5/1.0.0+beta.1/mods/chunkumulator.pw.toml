@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/chunkumulator/1.16.5/chunkumulator-1.0.3+MC1.16.5.jar"
-hash-format = "sha256"
-hash = "353e80f4449a64ee043154a0a43667838d64331eb20d29078069948d9c9776dc"
+hash-format = "sha512"
+hash = "1820125b1ef1846c316fae61eaa19386b3af5a07cec507e25e1de634fde3c1f783cf705d7137ed03ca1abb402159ddaf2d3157f2a78e08a0ca80b51cfba15c54"

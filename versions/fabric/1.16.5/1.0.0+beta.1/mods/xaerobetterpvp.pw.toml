@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://chocolateminecraft.com/mods2/bpvp/BetterPvP_24.7.1_Fabric_1.16.5.jar"
-hash-format = "sha1"
-hash = "8aad52052c26ce9d00f708157e2b54401691227d"
+hash-format = "sha512"
+hash = "2aaf3840554e38a5d9fb898a8f9ba11a7f46e03bb57bf081116371c2eb4e2f2ba219da6ec2da41f0663eaf2a72e5b02cb4e287ad7bc03013c907d2c60340106d"

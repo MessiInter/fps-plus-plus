@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/Draylar/angerable-patch/releases/download/1.1.0-1.16.4/angerable-patch-1.1.0-1.16.4.jar"
-hash-format = "sha256"
-hash = "aaf784e864fce9cac8a4358ad48050a242d8c98e085eb4c61647d41792959e67"
+hash-format = "sha512"
+hash = "147ce7fb8b252893d6156229465bc01e34623cfce94016073b572fe27fc5ac705f5fb8897e6392743b4ac1358aa48871adc692b8722c88d4edd201766dfe0ced"

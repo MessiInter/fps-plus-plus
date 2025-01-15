@@ -1,0 +1,13 @@
+name = "FastChest"
+filename = "fast-chest-1.2+1.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WNcgffMw/versions/nyEDcRrB/fast-chest-1.2%2B1.16.jar"
+hash-format = "sha512"
+hash = "9b96c8f8a867fdbec22aa92b22464e49a43e9bd35be6d379aabc32b457ce17e81da1706174ba45884f6eecdce0f0e32b585a4fd5fc370b05cda37f0c4b8bbd6d"
+
+[update]
+[update.modrinth]
+mod-id = "WNcgffMw"
+version = "nyEDcRrB"

@@ -1,0 +1,13 @@
+name = "Command Config Lib"
+filename = "command-config-0.1.0-beta.4+1.16-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FrwnDTSv/versions/D0OGx7sh/command-config-0.1.0-beta.4%2B1.16-1.18.2.jar"
+hash-format = "sha512"
+hash = "b1723173be026151872aa93e713d9ab66d5eb552f6d3ee3cfa96ae0cdc7b0258f9099c0f94c15ccafed558756ac0cce12802f65888810e74d3477f53d9875212"
+
+[update]
+[update.modrinth]
+mod-id = "FrwnDTSv"
+version = "D0OGx7sh"
