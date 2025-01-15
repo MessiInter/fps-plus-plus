@@ -1,0 +1,8 @@
+name = "Angerable Patch"
+filename = "angerable-patch-1.1.0-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Draylar/angerable-patch/releases/download/1.1.0-1.16.4/angerable-patch-1.1.0-1.16.4.jar"
+hash-format = "sha256"
+hash = "aaf784e864fce9cac8a4358ad48050a242d8c98e085eb4c61647d41792959e67"

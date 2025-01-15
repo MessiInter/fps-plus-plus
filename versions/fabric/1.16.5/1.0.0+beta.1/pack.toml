@@ -1,0 +1,16 @@
+name = "FPS++"
+author = "Messi Inter Miami, FPS++ contributors"
+version = "1.0.0+beta.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3e6cba7d2fda934d5313f4dadd8b8451c4f174575f511cb253cf1d6c7eaf7c6"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16", "1.16.1", "1.16.2", "1.16.3", "1.16.4", "1.16.5"]

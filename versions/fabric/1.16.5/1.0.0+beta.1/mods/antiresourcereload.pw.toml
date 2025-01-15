@@ -1,0 +1,9 @@
+name = "AntiResourceReload"
+filename = "antiresourcereload-4.0.1+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/0150b198bba5d7d56e5460e940a3dd0f99fdef82/legal-mods/antiresourcereload/1.16.2-1.16.5/antiresourcereload-4.0.1+1.16.5.jar"
+hash-format = "sha256"
+hash = "5a2e3f0f8434842068b6ed0a78b5306646fa567ce897dfe4c7fc9686f53d2d54"
+
