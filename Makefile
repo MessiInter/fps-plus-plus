@@ -5,20 +5,20 @@ update-packwiz:
 	@echo "Packwiz has been Updated"
 export-fabric:
 	-mkdir -p .build/fabric/
-	cd versions/fabric/ && pw batch mr export
-	-mv versions/fabric/**/**/*.mrpack .build/fabric
+	cd src/versions/fabric/ && pw batch mr export
+	-mv src/versions/fabric/**/*.mrpack .build/fabric
 export-quilt:
 	-mkdir -p .build/quilt/
-	cd versions/quilt && pw batch mr export
-	-mv versions/quilt/*/*.mrpack .build/quilt
+	cd src/versions/quilt && pw batch mr export
+	-mv src/versions/quilt/**/*.mrpack .build/quilt
 update-fabric:
-	cd versions/fabric && pw batch update --all
+	cd src/versions/fabric && pw batch update --all
 update-quilt:
-	cd versions/quilt && pw batch update --all
+	cd src/versions/quilt && pw batch update --all
 refresh-fabric:
-	cd versions/fabric && pw batch refresh
+	cd src/versions/fabric && pw batch refresh
 refresh-quilt:
-	cd versions/quilt && pw batch refresh
+	cd src/versions/quilt && pw batch refresh
 refresh:
 	make refresh-fabric
 	make refresh-quilt

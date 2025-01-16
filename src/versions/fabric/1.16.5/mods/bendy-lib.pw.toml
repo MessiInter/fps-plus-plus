@@ -1,0 +1,13 @@
+name = "bendy-lib"
+filename = "bendy-lib-fabric-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aRnIEV0F/versions/1.2.1-fabric/bendy-lib-fabric-1.2.1.jar"
+hash-format = "sha512"
+hash = "cd972e1a561f792a5ebf79786931092879d26fd19deb524691e1beb26d1342d488607fbe82a67ac18f6d74247bb6ba7c64702b8a0f6fc26832c5e0066690e2e0"
+
+[update]
+[update.modrinth]
+mod-id = "aRnIEV0F"
+version = "VLr7z7kq"

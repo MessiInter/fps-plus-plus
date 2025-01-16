@@ -1,0 +1,13 @@
+name = "Auto Config Updated API"
+filename = "autoconfig1u-3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4014ff7e517ae4aa6bb33960c581bd13677bc54df5a19554b14d70f9e2729ca5f3403d4e439f9e9cf97badaa547c348a4b19af6eb8a98ee6a68a727babfc5a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3095961
+project-id = 373261

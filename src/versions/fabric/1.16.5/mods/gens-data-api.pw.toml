@@ -1,0 +1,13 @@
+name = "Data API"
+filename = "developer-resources-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZS3lIxKu/versions/Kyh2oMoR/developer-resources-0.2.jar"
+hash-format = "sha512"
+hash = "68f93ddb04ff6ae65ea25dc322515ab6d09742e2377ab40828167bbd788eb65c3338e4f77b37d0d56d73f1b706afa8c1adc1fcd2a7f749b9435bc1d6062d0c56"
+
+[update]
+[update.modrinth]
+mod-id = "ZS3lIxKu"
+version = "Kyh2oMoR"

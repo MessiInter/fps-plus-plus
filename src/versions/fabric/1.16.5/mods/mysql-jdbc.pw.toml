@@ -1,0 +1,13 @@
+name = "MySQL JDBC"
+filename = "mysql-jdbc-8.0.33+20230506-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yvtIuyXT/versions/94JxXm7O/mysql-jdbc-8.0.33%2B20230506-all.jar"
+hash-format = "sha512"
+hash = "bcbaf82b77c15b04838a6652ec475befb48f04114d166f12e8f7d15aaf7a15e9167bf6a20b3b74458bcc8cd00e9d9d4d287c90804e94685cf6384b8a7fe5da72"
+
+[update]
+[update.modrinth]
+mod-id = "yvtIuyXT"
+version = "94JxXm7O"

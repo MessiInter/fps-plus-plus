@@ -1,0 +1,13 @@
+name = "Mod Remapping API"
+filename = "mod-remapping-api-1.23.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eRGeQXjD/versions/iCb6bE2k/mod-remapping-api-1.23.0.jar"
+hash-format = "sha512"
+hash = "99d81b127603da6f603d2cbb28a27608d6002fcd9e68e077d629358d3d0ad6aa1ab92ec315b5a2d1f3046f91b1eca16227ad9bc4a563f01754ac60d37db90f22"
+
+[update]
+[update.modrinth]
+mod-id = "eRGeQXjD"
+version = "iCb6bE2k"

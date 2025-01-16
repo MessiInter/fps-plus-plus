@@ -1,0 +1,13 @@
+name = "Transparent"
+filename = "transparent-2.3.0+1.16.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/2.3.0%2B1.16.5-fabric/transparent-2.3.0%2B1.16.5-fabric.jar"
+hash-format = "sha512"
+hash = "2d355d56711df1ad0b9d3497144cd2930a5d46f4ec8b8d0fa3a45ae4efd2e05d48ab84ea6ac53f0f25f413523308a4285c986c642a6b7401332bb91191902fad"
+
+[update]
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "Vgm8D7gi"
