@@ -1,0 +1,13 @@
+name = "ARRP"
+filename = "arrp-0.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "cfa73d4d9578640a904dd772592f2420ca6aa4c011da6d2fed0f90322ff98fc553eadb7d430d0a2c724b7a95c24f0a4a13fed4e46fb9e61cf71a3c1e3e5b63e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3529149
+project-id = 463113

@@ -1,0 +1,13 @@
+name = "Night Vision flash be gone"
+filename = "nightvisionflashbegone-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "5de08093393bd0a4c41dfab236e1bac80eb89fe5813873ca82d7e921c735714ebd5901c433593ffb335ac82df0d7dd42d70794ccdbb0fad3d0151ca4ceeb3b04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3530307
+project-id = 392440

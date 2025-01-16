@@ -1,0 +1,13 @@
+name = "Advancements Enlarger"
+filename = "advancements-enlarger-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "95748cda0a96250728b77efc4a03cf259553dd770ac63b13399dc69545ec7b8950078d9e04481621e103532a735749c0d20baea8a9f4bb2d6771a602133b2c95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3032313
+project-id = 355583

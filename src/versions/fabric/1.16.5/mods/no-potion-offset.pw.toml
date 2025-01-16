@@ -1,0 +1,13 @@
+name = "No Potion Offset (Fabric/Forge)"
+filename = "no-potion-offset-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "4272b3f5eed34c240f482778bcf0aa9cfdac0d8ac33963bbd8ae780de13e58db67010f59ac925da72056d0f2719dae41c8195972c6f1e6c0f9934dfbd4744eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3119667
+project-id = 361550

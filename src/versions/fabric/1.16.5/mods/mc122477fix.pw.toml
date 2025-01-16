@@ -1,0 +1,13 @@
+name = "Mc122477Fix"
+filename = "Mc122477Fix-fabric-1.1.0+mc1.15-1.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4JeObIue/versions/fabric-1.1.0%2Bmc1.15-1.16/Mc122477Fix-fabric-1.1.0%2Bmc1.15-1.16.jar"
+hash-format = "sha512"
+hash = "6fcfc05b0d2a038e7b5b57ab5f8c48ab763f1cf4eba82286e85230fa83077453d4e0aff6106ba9aaef0d680ab96c3c007b212688c4d51bd2df429abd4e38b15b"
+
+[update]
+[update.modrinth]
+mod-id = "4JeObIue"
+version = "Ru1wFqzT"

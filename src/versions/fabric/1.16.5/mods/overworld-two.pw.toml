@@ -1,0 +1,13 @@
+name = "Overworld Two"
+filename = "overworld-two-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "24ec6ee9085c07ae443e8bb24ba0e3c2847f67e2bc0a7b5bb89263c4bb9723cfd2b495436d3df9b7c475982ad1e73c30e4ec8af7a600f8efeff02b4ffc06e20d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3149112
+project-id = 401556

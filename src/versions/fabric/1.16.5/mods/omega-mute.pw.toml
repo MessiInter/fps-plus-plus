@@ -1,0 +1,13 @@
+name = "Omega Mute"
+filename = "omegamute-fabric_1.16.5-2.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ots5RF5/versions/G9zY3DTh/omegamute-fabric_1.16.5-2.8.jar"
+hash-format = "sha512"
+hash = "f3ba1fd8200f03f50c5694f25055c22e68298e7d792f2f7e6c1320f9a1c7ede5a2f7e7b0f731ae48775ef38cf429a1a6e2533f03ec609e06e2207ec9583fcea6"
+
+[update]
+[update.modrinth]
+mod-id = "2ots5RF5"
+version = "G9zY3DTh"
