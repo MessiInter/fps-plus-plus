@@ -9,6 +9,5 @@
   "files.associations": {
     "*.sh": "shellscript"
   },
-  "editor.formatOnPaste": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.formatOnPaste": true
 }
