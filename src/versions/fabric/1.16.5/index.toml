@@ -903,6 +903,3 @@ hash = "5ff5ea64a4f9e17459b082728b8bf6b1707673045eb053bdeea2eb4b36b815b6"
 file = "overrides/mods/state-output-1.2.0+1.16-1.18.1.jar"
 hash = "a932f406778a12c5b668bdf93ddf805932fbeac7d17ae3dd5840bc5cd9678ab3"
 
-[[files]]
-file = "overrides/mods/voyager-1.0.1.jar"
-hash = "9f64a2d34452770a225f284d1948aea8af05866c5ba7a4fc3b8836997b4de844"
