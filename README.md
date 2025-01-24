@@ -16,9 +16,9 @@
 </div>
 
 
-FPS++ is a **client-side** (**server-side** is currently unsupported) or modpack comprised of the **best performance mods** (e.g. Sodium, Starlight and Lithium, along with many more) and libraries/API mods (e.g. Fabric API and Fabric Language Kotlin) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! FPS++ serves as a great foundation for performance - simply add your favorite mods on top.
+FPS++ is a **client-side** (**server-side** is currently unsupported) or modpack comprised of the **best performance mods** (e.g. Sodium, Starlight and Lithium, along with many more) and libraries/API mods (e.g. Fabric API, Fabric Language Kotlin and Cloth Config API) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! FPS++ serves as a great foundation for performance - simply add your favorite mods on top.
 
-FPS++ can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
+FPS++ can only be installed on clients.
 
 # 📥 Installation Guide
 
