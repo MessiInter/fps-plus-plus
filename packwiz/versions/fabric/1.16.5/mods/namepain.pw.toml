@@ -1,0 +1,13 @@
+name = "Name Pain"
+filename = "namepain-1.5.2 fabric-1.16.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cJk2qbxw/versions/auCvgUmE/namepain-1.5.2%20fabric-1.16.x.jar"
+hash-format = "sha512"
+hash = "d06758e930f13df18f77da62b19f216e489d4a4adb6f6b95bc97d2799ffe11db3c3599617e7ff5bbf34fefeda9001e6dcb94072a97ff84155acfc170e860e9db"
+
+[update]
+[update.modrinth]
+mod-id = "cJk2qbxw"
+version = "auCvgUmE"

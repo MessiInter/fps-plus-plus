@@ -1,0 +1,13 @@
+name = "Detail Armor Bar [Fabric]"
+filename = "DetailArmorBar-2.6.1+1.16.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "da079839fe5f63ab43b181f43b112891144766e9299682af982179b31846dc7260f1402f41b64f4f06f7545bc301b9ba3c6dccf38297bcadb5d6fa8e1fa05e74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3470826
+project-id = 506898

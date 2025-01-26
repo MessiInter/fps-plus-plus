@@ -1,6 +1,0 @@
-hash-format = "sha256"
-
-[[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "5a1bb06946a2312aca4857196e7b8d36c69c1b66617d1bf5ecfb3564e5e8627f"
-metafile = true

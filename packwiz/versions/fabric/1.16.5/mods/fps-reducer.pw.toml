@@ -1,0 +1,13 @@
+name = "FPS Reducer"
+filename = "FpsReducer-fabric-1.24-mc1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/OXfcKJ36/FpsReducer-fabric-1.24-mc1.16.5.jar"
+hash-format = "sha512"
+hash = "a012a38935592ff810b65ff2ff91afd70f3629008d3467a3cc44db82e673c0b9d04bb75bb7b898ffa4256c31808c946b83b26d2679ea8b02fa90cfb5d8e9410b"
+
+[update]
+[update.modrinth]
+mod-id = "iZ10HXDj"
+version = "OXfcKJ36"

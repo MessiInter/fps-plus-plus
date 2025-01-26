@@ -1,0 +1,13 @@
+name = "Title Fixer"
+filename = "titlefixer-1.0+1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zYE8DiW/versions/1.0%2B1.16.5/titlefixer-1.0%2B1.16.5.jar"
+hash-format = "sha512"
+hash = "5ba0617c90aa182a37258a6cf1faf9413f8c39184af37a0983ee1d1e2b3e9d1644fa6de09cf0bbb1f568d0edcbe4c7d34ea13e20797957f6a2296aaaf54bc416"
+
+[update]
+[update.modrinth]
+mod-id = "8zYE8DiW"
+version = "B2HWwez0"
