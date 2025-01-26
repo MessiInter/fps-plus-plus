@@ -1,0 +1,13 @@
+name = "Spawned Eggs"
+filename = "Spawned_Eggs_1.16-1.21.4_r1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPBwDzHA/versions/4v43Y25J/Spawned_Eggs_1.16-1.21.4_r1.zip"
+hash-format = "sha512"
+hash = "f442c35769eb1b38b947ba1aec40a4307cbed57b4959cb76aad2ef8bacf25b5d31615e6a69e748bb243e5c51226476526f8923382380746df0e6177d44d1bebc"
+
+[update]
+[update.modrinth]
+mod-id = "yPBwDzHA"
+version = "4v43Y25J"

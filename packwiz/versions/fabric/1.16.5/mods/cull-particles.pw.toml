@@ -1,0 +1,13 @@
+name = "Cull Particles"
+filename = "cullparticles-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "be2bb396425fb4f157f77278ce1bb6feb78312db4f1beb0be889b9f674cd8b4c6ef3f70bed4decd22458751ec9826e3a9197a8ade95ededea8d454d509fd3975"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2881677
+project-id = 362791

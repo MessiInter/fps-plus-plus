@@ -1,0 +1,13 @@
+name = "Essential Mod"
+filename = "essential_1-3-5-6_fabric_1-16-5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/MwgTFiAu/essential_1-3-5-6_fabric_1-16-5.jar"
+hash-format = "sha512"
+hash = "7aefc653a6ad216777af35181a94094b64001c9919cfdbe56209c2e13a0df4cb890aede0b55c9f2cfb172499d28adaa565b1534d0f6f4bfd14fdeb21e5d623fa"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "MwgTFiAu"

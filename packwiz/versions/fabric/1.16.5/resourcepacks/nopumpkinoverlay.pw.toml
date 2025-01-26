@@ -1,0 +1,13 @@
+name = "NoPumpkinOverlay"
+filename = "NoPumpkinOverlay.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MD0irIpi/versions/lSBDlKKS/NoPumpkinOverlay.zip"
+hash-format = "sha512"
+hash = "3f3f11bcc65a4fd86cfab0738e090c762bb2e5e6a516e31b349f9e29ec4d085ad6bc5c20e8a47631cb1373fda2191f00b00c5062b5c17d765491f4e9739ab58b"
+
+[update]
+[update.modrinth]
+mod-id = "MD0irIpi"
+version = "lSBDlKKS"

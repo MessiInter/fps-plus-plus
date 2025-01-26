@@ -1,0 +1,13 @@
+name = "Erroring Entity Remover"
+filename = "Erroring-Entity-Remover-1.0.1+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9q1j6H6P/versions/1.0.1%2B1.16.5/Erroring-Entity-Remover-1.0.1%2B1.16.5.jar"
+hash-format = "sha512"
+hash = "badf4593413109048849dc73be782cb6fb4764665298fe10ea1ac13db0fab78de5904e2d71946d98a7e006b01088ffbc3e0abfdfb86f6c5f5fd4f5e81c331a25"
+
+[update]
+[update.modrinth]
+mod-id = "9q1j6H6P"
+version = "FriNwLNo"

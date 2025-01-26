@@ -1,0 +1,13 @@
+name = "Redirector [Modern]"
+filename = "redirector-1.16.5-1.6.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "71f519fcba78daf5e7c809080a1e9055167221abcbfac9ced1c3eedd2b75f6008c11c62d2ee31d2f8dd056f4e749f8052358232753deda1d863bb6ba487e44bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750705
+project-id = 877289

@@ -1,0 +1,13 @@
+name = "Fix Alt Gr"
+filename = "fix-alt-gr-1.0.1+1.14-1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/36kLTHWB/versions/1.0.1%2B1.14-1.16/fix-alt-gr-1.0.1%2B1.14-1.17.jar"
+hash-format = "sha512"
+hash = "e8bb1b309e0c77ecfd2ff3b1b6edab1bae54e5297c766af5d484d78c91d4740d43f3866239d6485cde131bf318ac73b728195bc56143060d3ee06136a78bd968"
+
+[update]
+[update.modrinth]
+mod-id = "36kLTHWB"
+version = "QEu9FALm"

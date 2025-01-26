@@ -1,0 +1,13 @@
+name = "Chunky"
+filename = "Chunky-1.2.54.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.54/Chunky-1.2.54.jar"
+hash-format = "sha512"
+hash = "ce65fa4ab4749f3b4d958b73fe89f845948a0f8add3b80fd19187aa2d5495595d64a2f12d678cca1a4f8fdb336391cf432869a9b3369e2c645cc1a3e9348c0b4"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "iwbcBiUq"
